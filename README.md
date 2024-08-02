@@ -21,15 +21,21 @@
 
 ⚡**Languages** 
 
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,firebase,github,html,java,python,django,php,laravel,js,kotlin,mysql,nodejs,postman,react,tailwind,vscode&perline=14" />
+  </a>
+</p>
+
 ```text
-
-💬 Languages: 
-JavaScript               ██████████████░░░░░░░░░░░   60% 
-Python                   ████░░░░░░░░░░░░░░░░░░░░░   30% 
-PHP                      ████████████████████░░░░░   80% 
-Laravel                  ████████████████████░░░░░   80% 
-C++                      ██████████████░░░░░░░░░░░   60%
-
 🔥 Editors: 
 VS Code                  █████████████████████████   100% 
 
