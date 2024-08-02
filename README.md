@@ -18,9 +18,11 @@
 🌙 Night          ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 
 ```
+### ⚙️ &nbsp;GitHub Analytics
+![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldahirLopez&hide=issues&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldahirLopez&layout=compact&theme=tokyonight)](https://github.com/AldahirLopez/github-readme-stats)
 
 ⚡**Languages** 
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
