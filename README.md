@@ -6,6 +6,13 @@
 [![Instagram: Aldahir_Lopez21](https://img.shields.io/badge/Instagram-aldahir__lopez21-blue?style=social&logo=instagram)](https://www.instagram.com/aldahir_lopez21)
 [![LinkedIn: Hector Aldahir Lopez Rodriguez](https://img.shields.io/badge/LinkedIn-Hector%20Aldahir%20Lopez%20Rodriguez-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/hector-aldahir-lopez-rodriguez-528022227)
 [![GitHub AldahirLopez](https://img.shields.io/github/followers/AldahirLopez?label=follow&style=social)](https://github.com/AldahirLopez)
+<!--Intro start-->
+
+- 📫 Feel free to reach me out **hectoralr21@gmail.com**
+
+- 💬 Ask me about **Laravel, php, react-native, css, MySql**
+
+<!--Intro end-->
 
 <!--START_SECTION:waka-->
 🙋‍♂️**Programming time** 
@@ -18,11 +25,20 @@
 🌙 Night          ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 
 ```
+
+```text
+🔥 Editors: 
+VS Code                  █████████████████████████   100% 
+
+💻 Operating Systems: 
+Windows                  █████████████████████████   100%
+Mac OS                   █████████████████████░░░░   85%
+Linux                    █████████████░░░░░░░░░░░░   55%
+
+```
 ### ⚙️ &nbsp;GitHub Analytics
 ![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldahirLopez&hide=issues&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldahirLopez&layout=compact&theme=tokyonight)](https://github.com/AldahirLopez/github-readme-stats)
-
-⚡**Languages** 
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -37,14 +53,6 @@
   </a>
 </p>
 
-```text
-🔥 Editors: 
-VS Code                  █████████████████████████   100% 
 
-💻 Operating Systems: 
-Windows                  █████████████████████████   100%
-Mac OS                   █████████████████████░░░░   85%
-Linux                    █████████████░░░░░░░░░░░░   55%
 
-```
 <!--END_SECTION:waka-->
